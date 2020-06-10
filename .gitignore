@@ -4,3 +4,5 @@
 # dotnet build results
 [Bb]in/
 [Oo]bj/
+
+*.exe
